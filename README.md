@@ -1,7 +1,7 @@
 # Vehicle Trajectory Prediction in Autonomous Driving Systems
 
 ## Overview
-This project focuses on predicting the future trajectory of vehicles, which is a crucial aspect of autonomous driving systems. It aims to forecast the future path of vehicles based on their historical and current states, enhancing path planning, collision avoidance, and overall safety and efficiency.
+This is a course project of ME343, it focuses on predicting the future trajectory of vehicles, which is a crucial aspect of autonomous driving systems. It aims to forecast the future path of vehicles based on their historical and current states, enhancing path planning, collision avoidance, and overall safety and efficiency.
 
 ## Technical Challenge
 The primary challenge lies in accurately predicting future vehicle trajectories with high accuracy and low latency, considering the non-linear and dynamic nature of vehicle movements, environmental influences, and real-time decision-making requirements.
